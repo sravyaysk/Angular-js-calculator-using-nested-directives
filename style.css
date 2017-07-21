@@ -1,0 +1,44 @@
+html {
+background-color: #ebe9df;
+color: #726157;
+font-family: 'Montserrat', sans-serif;
+font-size: 16px;
+line-height: 1.5;
+}
+body {
+min-height: 100%;
+background-color: #ebe9df;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td, tr {
+    border: 1px solid black;
+}
+button {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type=text]{
+	  font-size: 32px;
+    width: 330px;
+	  height: 50px;
+    background: white;
+    border: 1px double #DDD;
+	  background-color: #e7e7e7;
+    border-radius: 8px;
+    box-shadow: 0 0 5px #333;
+    color: #666;
+    outline: none;
+	  text-align: right;
+    padding: 3px;
+  }

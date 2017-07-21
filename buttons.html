@@ -1,0 +1,7 @@
+<table ng-controller="actionController as ac">
+<tr ng-repeat="row in ac.button">
+  <td ng-repeat="btn in row">
+    <button type="button" id="btn.id" ng-click="ac.calculator(btn.value)">{{btn.name}}</button>
+  </td>
+</tr>
+</table>
