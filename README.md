@@ -1,0 +1,2 @@
+# Angular-js-calculator-using-nested-directives
+This is a simple calculator application developed using angular js. Here we used three directives namely Calc-view in which two other directives namely display-area which will take care of handling I/O operations of calculator and buttons-grid which is responsible for performing calculation operations.This is an example for creating sample applications in angular js using nested directives.
